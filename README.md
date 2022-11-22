@@ -68,7 +68,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Ruby on Rails</a></li>
+    <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
   </ul>
 </details>
 
@@ -83,11 +83,10 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Some features of the application.
-
 - **Rails api**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Checkout the client app<a name="client app"></a>
+- [Here](https://github.com/XsidX/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,47 +142,12 @@ Example command:
 --->
 - Clone the repository using `git@github.com:XsidX/hello-rails-back-end.git`
 - Navigate to the folder using `cd hello-rails-back-end`
-- Use the following commands to
-    - install necessary gems `bundle install`
-    - run the development server `rails s`
 
 ### Usage
 
 To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+  - install necessary gems `bundle install`
+  - run the development server on port 3001 `rails s -p 3001`
 
 <!-- AUTHORS -->
 
